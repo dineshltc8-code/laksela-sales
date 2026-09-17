@@ -1,0 +1,6 @@
+{
+  "name": "Laksela Smart Sales Log",
+  "description": "A modern, professional PC sales management and tracking dashboard for Laksela, featuring advanced salesman logs, targets, departments, reports, and Laksela Sinhala AI Sahakaru - a Sinhala-speaking AI assistant with voice and text capabilities.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
